@@ -9,3 +9,5 @@ sudo cp -a "MVVM Module Swift.xctemplate" "/Applications/Xcode.app/Contents/Deve
 Create new module with XCode wizard. Enter module name (Main, Welcome, etc.)
 
 Final step: Drag and drop viewModel to your ViewModels folder.
+
+![alt text](https://raw.githubusercontent.com/antondevs/mvvm-module-template-ios/raw/master/mvvm-module.png)
