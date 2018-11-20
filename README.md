@@ -10,4 +10,4 @@ Create new module with XCode wizard. Enter module name (Main, Welcome, etc.)
 
 Final step: Drag and drop viewModel to your ViewModels folder.
 
-![alt text](https://raw.githubusercontent.com/antondevs/mvvm-module-template-ios/blob/master/mvvm-module.png)
+![alt text](https://raw.githubusercontent.com/antondevs/mvvm-module-template-ios/master/mvvm-module.png)
